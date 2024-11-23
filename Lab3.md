@@ -74,7 +74,7 @@
 
 ## 4. Architectural layers and their dependencies
 
-![](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bT1Od9sOdggWf9ZGK5EPd9YIMP-dfA2ZKrEOcLgaPsTGZLNBHT2aLDfSMPUQd6nGd1gKLbcScenRgM-cIafEQdbYKMfU8nBB4vL24ejBSPKW-GS1JqzEsnMSs5p3aWjmcekBeVKl1IWFm40003__mC0)
+![Diagram](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bT1Od9sOdggWf9ZGK5EPd9YIMP-dfA2ZKrEOcLgaPsTGZLNBHT2aLDfSMPUQd6nGd1gKLbcScenRgM-cIafEQdbYKMfU8nBB4vL24ejBSPKW-GS1JqzEsnMSs5p3aWjmcekBeVKl1IWFm40003__mC0)
 
 - Application: chứa các phần tử thiết kế ứng dụng cụ thể.
 - Business Services: chứa các thành phần nghiệp vụ cụ thể.
